@@ -2,7 +2,7 @@
 
 ⚠️ **IMPORTANT DISCLAIMER: This project is for educational purposes only!** ⚠️
 
-This is a demonstration project to learn about web development, Node.js, APIs, and user interface design. It is NOT intended for any malicious use, including but not limited to phishing, scamming, or any unauthorized access to accounts.
+This is a demonstration project to learn about web development, Node.js, APIs, and user interface design. It is NOT intended for any malicious use.
 
 ## Features
 
